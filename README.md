@@ -8,7 +8,10 @@ Robert Karczewski
 Artur Mironczuk
 
 Launch:
-To start the game, run "python3 src/game.py" in the command line. Required libraries: pygame, requests.
+To start the game, run "python3 src/game.py" in the command line. 
+You need to provide openai_api_key in game.py file in order to get quest questions.
+Required libraries: pygame, requests.
+
 
 Game Description:
 Office Explorer is a virtual journey through an office space. 
